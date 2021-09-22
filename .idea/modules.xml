@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CH05-Layout.iml" filepath="$PROJECT_DIR$/.idea/modules/CH05-Layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/0500_Test_new/CH05-Layout.0500_Test_new.iml" filepath="$PROJECT_DIR$/.idea/modules/0500_Test_new/CH05-Layout.0500_Test_new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/0500d_Converter/CH05-Layout.0500d_Converter.iml" filepath="$PROJECT_DIR$/.idea/modules/0500d_Converter/CH05-Layout.0500d_Converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/0500f_MoneyChange/CH05-Layout.0500f_MoneyChange.iml" filepath="$PROJECT_DIR$/.idea/modules/0500f_MoneyChange/CH05-Layout.0500f_MoneyChange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/0500g_AreaConverter/CH05-Layout.0500g_AreaConverter.iml" filepath="$PROJECT_DIR$/.idea/modules/0500g_AreaConverter/CH05-Layout.0500g_AreaConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/0501_Marrisug/CH05-Layout.0501_Marrisug.iml" filepath="$PROJECT_DIR$/.idea/modules/0501_Marrisug/CH05-Layout.0501_Marrisug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/0502_Marrisug_radiobutton/CH05-Layout.0502_Marrisug_radiobutton.iml" filepath="$PROJECT_DIR$/.idea/modules/0502_Marrisug_radiobutton/CH05-Layout.0502_Marrisug_radiobutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/0502a_Marrisug_zh/CH05-Layout.0502a_Marrisug_zh.iml" filepath="$PROJECT_DIR$/.idea/modules/0502a_Marrisug_zh/CH05-Layout.0502a_Marrisug_zh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/0503_CheckBox/CH05-Layout.0503_CheckBox.iml" filepath="$PROJECT_DIR$/.idea/modules/0503_CheckBox/CH05-Layout.0503_CheckBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/0504_ScrollView/CH05-Layout.0504_ScrollView.iml" filepath="$PROJECT_DIR$/.idea/modules/0504_ScrollView/CH05-Layout.0504_ScrollView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/0505_Auto_Complete_TextInput/CH05-Layout.0505_Auto_Complete_TextInput.iml" filepath="$PROJECT_DIR$/.idea/modules/0505_Auto_Complete_TextInput/CH05-Layout.0505_Auto_Complete_TextInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/0506_TextViewScrollable/CH05-Layout.0506_TextViewScrollable.iml" filepath="$PROJECT_DIR$/.idea/modules/0506_TextViewScrollable/CH05-Layout.0506_TextViewScrollable.iml" />
+    </modules>
+  </component>
+</project>
